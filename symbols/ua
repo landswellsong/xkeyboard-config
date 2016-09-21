@@ -50,7 +50,7 @@ xkb_symbols "unicode" {
     key <AC09> { [     Cyrillic_de,     Cyrillic_DE,    Serbian_dje,         Serbian_DJE  ] };
     key <AB02> { [    Cyrillic_che,    Cyrillic_CHE,   Serbian_tshe,        Serbian_TSHE  ] };
     key <AC08> { [     Cyrillic_el,     Cyrillic_EL,   Cyrillic_lje,        Cyrillic_LJE  ] };
-    key <AB04> { [     Cyrillic_em,     Cyrillic_EM,   Cyrillic_nje,        Cyrillic_NJE  ] };
+    key <AD06> { [     Cyrillic_en,     Cyrillic_EN,   Cyrillic_nje,        Cyrillic_NJE  ] };
 
     include "level3(ralt_switch)"
 };
